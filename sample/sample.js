@@ -1,4 +1,4 @@
-t/*------------- DOM structure  -------------*/
+/*------------- DOM structure  -------------*/
 
 domify({ 
   background: 'gray',
